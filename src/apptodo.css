@@ -1,0 +1,39 @@
+.heading{
+  font-weight: 900;
+  font-size: 80px;
+  margin-top: 80px;
+  margin: 50px;
+  color: red;
+}
+input {
+  width:30%;
+}
+.item-container {
+  text-align:  left;
+}
+.todo-row {
+  margin: 15px 2px;
+}
+.todo-button{
+  min-width: 80px;
+}
+.todo-items {
+  font-weight: 800;
+}
+.Message {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 800;
+  color: burlywood;
+  background: linear-gradient(black,red,pink);
+  text-shadow: 40px 30px 5px chocolate;
+  border: 4px solid rosybrown;
+  border-radius: 5px;
+  box-shadow: 10px 25px 50px lightcoral;
+
+}
+.listing {
+  color: cadetblue;
+  font-size: 30px;
+  font-weight: 800;
+}
